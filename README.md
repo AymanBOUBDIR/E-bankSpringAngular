@@ -98,4 +98,8 @@ La méthode `bankService.consulter()` est également appelée pour afficher un c
 ```bash
 cd ebanking-backend-ibdcc
 ./mvnw spring-boot:run
-
+```
+### base de donnees MySQl : Single Table implementation 
+![img_1.png](img_1.png)
+### Afficher les informations du compte bancaire et ses opérations en utilisant la méthode Lazy et le service bancaire @BankService
+![img_2.png](img_2.png)
