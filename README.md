@@ -96,6 +96,6 @@ La méthode `bankService.consulter()` est également appelée pour afficher un c
 ![img.png](img.png)
 ### Backend
 ```bash
-cd backend
+cd ebanking-backend-ibdcc
 ./mvnw spring-boot:run
 
